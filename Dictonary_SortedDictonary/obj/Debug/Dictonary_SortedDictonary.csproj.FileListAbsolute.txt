@@ -1,0 +1,7 @@
+C:\Users\Data53454\Desktop\C#\Dictonary_SortedDictonary\Dictonary_SortedDictonary\bin\Debug\Dictonary_SortedDictonary.exe
+C:\Users\Data53454\Desktop\C#\Dictonary_SortedDictonary\Dictonary_SortedDictonary\bin\Debug\Dictonary_SortedDictonary.pdb
+C:\Users\Data53454\Desktop\C#\Dictonary_SortedDictonary\Dictonary_SortedDictonary\obj\Debug\Dictonary_SortedDictonary.csproj.AssemblyReference.cache
+C:\Users\Data53454\Desktop\C#\Dictonary_SortedDictonary\Dictonary_SortedDictonary\obj\Debug\Dictonary_SortedDictonary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Data53454\Desktop\C#\Dictonary_SortedDictonary\Dictonary_SortedDictonary\obj\Debug\Dictonary_SortedDictonary.csproj.CoreCompileInputs.cache
+C:\Users\Data53454\Desktop\C#\Dictonary_SortedDictonary\Dictonary_SortedDictonary\obj\Debug\Dictonary_SortedDictonary.exe
+C:\Users\Data53454\Desktop\C#\Dictonary_SortedDictonary\Dictonary_SortedDictonary\obj\Debug\Dictonary_SortedDictonary.pdb
